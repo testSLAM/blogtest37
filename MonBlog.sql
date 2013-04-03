@@ -1,6 +1,6 @@
 /* Testé sous MySQL 5.x */
 /* crer la base avant l'execution du script */
-/* !! */
+/* !! inutile ! */
 drop table if exists T_COMMENTAIRE;
 drop table if exists T_BILLET;
 
